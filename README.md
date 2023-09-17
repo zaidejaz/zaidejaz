@@ -6,7 +6,7 @@ My name is Zaid Ejaz.
 I am currently a Computer Science student at the International Islamic University Islamabad, focusing on learning Web Development.
 - 🌍 I'm based in Islamabad, Pakistan.
 - 🔭 I’m currently working with NextJS and ReactJS.
-- 🌱 I’m also learning Python.
+- 🌱 I’m also learning LangChain.
 - 📫 You can reach me at: [zaidejaz521@gmail.com](mailto:zaidejaz521@gmail.com)
 - ⚡ I love building things.
 
