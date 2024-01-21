@@ -26,6 +26,6 @@ I am currently a Computer Science student at the International Islamic Universit
 
 ### Socials
 <div align="left">
-<a href="https://www.linkedin.com/in/zaid-ejaz-71010624b" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a> 
-<a href="https://www.twitter.com/zaidejaz9" target="_blank" rel="noreferrer"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter"/></a> 
+<a href="https://www.linkedin.com/in/zaidejaz" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a> 
+<a href="https://www.twitter.com/zaidejaaz" target="_blank" rel="noreferrer"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter"/></a> 
 </div>
